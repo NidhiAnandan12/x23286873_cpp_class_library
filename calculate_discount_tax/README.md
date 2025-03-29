@@ -17,5 +17,5 @@ pip install .
 
 ## Usage
 from calculateDiscountTax import calculateTax,calculateDiscount
-print("Tax Amount:", calculateTax(amount,tax_rate)) #100,5.0
-print("Discount Amount ", calculateDiscount(amount,discount_rate)) #100,10
+print("Tax Amount:", calculateTax(amount,tax_rate)) #100,5.0 - will return 105
+print("Discount Amount ", calculateDiscount(amount,discount_rate)) #100,10 - will return 90

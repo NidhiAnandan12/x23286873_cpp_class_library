@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: calculateDiscountTax
-Version: 0.2.2
+Version: 0.3.0
 Summary: A simple Python library used to calculate the final amount for the given tax rate or discount rate.
 Author: Nidhi Anandan
 Author-email: x23286873@student.ncirl.ie
