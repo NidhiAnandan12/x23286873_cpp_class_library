@@ -1,6 +1,5 @@
 import numbers
 import decimal 
-
 """
 calculate the tax on the amount for the  given tax rate.
     Parameters:
@@ -45,4 +44,6 @@ def calculateDiscount(amount, discount_percentage):
     else:
         #if the input parameters are not valid then return an error message.
         return "please check the input parameters the amount must be a postitive value and discount must be a postive decimal value"
+    
+
     
